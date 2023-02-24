@@ -5,7 +5,7 @@ int main() {
 
 
 //input 1:
-   int varer = 0;
+   int varer = 5;
    scanf("%d",&varer);
 //input 2:
     double pris[varer+1];
